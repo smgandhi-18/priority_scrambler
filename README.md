@@ -14,5 +14,5 @@ This VHDL file contains the implementation of a priority scrambler system. The s
 This VHDL file can be used as a module in a larger digital design project. It provides the functionality to scramble input data based on certain conditions and display the scrambled data on output devices.
 
 ## License
-This VHDL code is licensed under the [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use, modify, and distribute the code without any restrictions.
+This VHDL code is licensed under the [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use, modify, and distribute the code without any restrictions. Provide credits to the author(s).
 
